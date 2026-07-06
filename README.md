@@ -1,5 +1,11 @@
 # 📊 Ecommerce Sales Analysis using Pandas & Plotly
 
+## 📒 View Full Jupyter Notebook
+
+GitHub may not render all Plotly charts correctly. To view the notebook with all outputs and interactive visualizations, open it in nbviewer:
+
+🔗 **[Open Notebook in nbviewer](https://nbviewer.org/github/Vedanttiwari726/Ecommerce-Sales-Analysis/blob/main/Ecommerce_Sales_Analysis.ipynb)**
+
 ## 📌 Project Overview
 
 This project focuses on **Exploratory Data Analysis (EDA)** of the Sample Superstore dataset using **Pandas** and **Plotly**. The objective is to analyze sales performance, profit trends, customer segments, and product categories to generate meaningful business insights through interactive visualizations.
